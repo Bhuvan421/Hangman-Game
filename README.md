@@ -3,4 +3,5 @@
 
 ### How to play?
  A word with all blank characters with visual representation will be given. You have to think and guess a character that would be present in the missing word. You will have limited number of chances to guess and complete the missing word.
- Thanks it! Best of luck.
+ 
+Thanks it! Best of luck.
